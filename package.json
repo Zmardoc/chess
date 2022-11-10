@@ -1,0 +1,23 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "Sachy jako dynamit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmardoc/chess.git"
+  },
+  "keywords": [
+    "chess",
+    "sachy"
+  ],
+  "author": "ja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zmardoc/chess/issues"
+  },
+  "homepage": "https://github.com/Zmardoc/chess#readme"
+}
